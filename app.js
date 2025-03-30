@@ -17,4 +17,6 @@ const sayFriend = () => {
 
 console.log(sayFriend());
 
+const myNum = 3
+
 
