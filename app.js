@@ -7,4 +7,7 @@ const sayDevelopeRemote = () => {
 return "developeRemote"
 }
 ;
+const sayDeveloper = () => {
+  return "i'm a developer"
+}
 
