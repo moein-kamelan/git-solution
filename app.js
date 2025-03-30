@@ -8,3 +8,10 @@ return "developeRemote"
 }
 ;
 
+const sayFriend = () => {
+    return "my friend is ali"
+}
+
+console.log(sayFriend());
+
+
