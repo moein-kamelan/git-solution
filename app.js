@@ -11,10 +11,8 @@ const sayDeveloper = () => {
   return "i'm a developer"
 }
 
-const sayFriend = () => {
-    return "my friend is ali"
-}
 
-console.log(sayFriend());
+
+
 
 
