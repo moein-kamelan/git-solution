@@ -15,4 +15,6 @@ const sayDeveloper = () => {
 
 
 
+const myNum = 3
+
 
