@@ -7,4 +7,4 @@ const myAge = 18
 
 const myName = "moein"
 
-
+const newCourse = "css"
